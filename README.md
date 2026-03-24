@@ -10,8 +10,8 @@ Welcome to my Certificates Repository. This repository contains my internship an
 ```
 ### Data Science Master Virtual Internship
 
-**Issued by:** (Company Name)
-**Duration:** (Start Date – End Date)
+**Issued by:** (EduSkills)
+**Duration:** (During jan-march 2026)
 **Skills Learned:**
 
 * Python
